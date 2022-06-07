@@ -1,0 +1,5 @@
+﻿  eva assessment problem 1.cpp
+C:\Users\Joo\source\repos\eva assessment problem 1\eva assessment problem 1\eva assessment problem 1.cpp(30,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joo\source\repos\eva assessment problem 1\eva assessment problem 1\eva assessment problem 1.cpp(42,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joo\source\repos\eva assessment problem 1\eva assessment problem 1\eva assessment problem 1.cpp(21): warning C4715: 'applyOp': not all control paths return a value
+  eva assessment problem 1.vcxproj -> C:\Users\Joo\source\repos\eva assessment problem 1\Debug\eva assessment problem 1.exe

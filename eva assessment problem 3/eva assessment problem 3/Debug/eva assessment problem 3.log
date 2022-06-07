@@ -1,0 +1,4 @@
+﻿  eva assessment problem 3.cpp
+C:\Users\Joo\source\repos\eva assessment problem 3\eva assessment problem 3\eva assessment problem 3.cpp(10,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joo\source\repos\eva assessment problem 3\eva assessment problem 3\eva assessment problem 3.cpp(43,12): warning C4018: '>=': signed/unsigned mismatch
+  eva assessment problem 3.vcxproj -> C:\Users\Joo\source\repos\eva assessment problem 3\Debug\eva assessment problem 3.exe
